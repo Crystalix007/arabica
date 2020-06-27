@@ -102,7 +102,7 @@ pre code {
 
 blockquote {
 	margin: 0 2em;
-	color: #9EABB3;
+	color: #677984;
 }
 
 blockquote p {
@@ -124,7 +124,7 @@ hr {
 
 /* Links */
 .post a {
-	color: #FC7E0F;
+	color: #a34d02;
 	text-decoration: none;
 }
 
@@ -133,12 +133,12 @@ hr {
 }
 
 .post a:visited {
-	color: #9EABB3;
+	color: #677984;
 	text-decoration: none;
 }
 
 a.read-more, a.read-more:hover, a.read-more:visited {
-	color: #FC7E0F;	/* #DA1F15, #F17F33 */
+	color: #a34d02;	/* #DA1F15, #F17F33 */
 	text-decoration: none;
 }
 
@@ -249,7 +249,7 @@ Blog header
 	font-family: "Lato", sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 0;
-	color: #9EABB3;
+	color: #677984;
 	font-weight: 300;
 }
 
@@ -268,20 +268,20 @@ Navigation
 
 .nav a {
 	margin: 0 0.5rem;
-	color: #9EABB3;
+	color: #677984;
 	text-decoration: none;
 }
 
 .nav a:hover {
-	color: #FC7E0F;
+	color: #a34d02;
 }
 
 a.nav-current {
-	color: #FC7E0F;
+	color: #a34d02;
 }
 
 a.nav-home, a.nav-blog {
-	color: #9EABB3;
+	color: #677984;
 }
 
 /*	==========================================================================
@@ -300,12 +300,12 @@ Site footer
 }
 
 .site-footer a {
-	color: #FC7E0F;
+	color: #a34d02;
 	text-decoration: none;
 }
 
 .site-footer a:hover {
-	color: #9EABB3;
+	color: #677984;
 }
 
 
@@ -325,13 +325,13 @@ Site footer
 	margin-left: -.2rem;
 	padding: .35rem .1rem 0.05rem .2rem;
 	vertical-align: middle;
-	border: 1px #FC7E0F solid;
+	border: 1px #a34d02 solid;
 	border-radius: 1.2rem;
 }
 
 .site-footer .rss a:hover {
 	color: #ffffff;
-	background: #FC7E0F;
+	background: #a34d02;
 }
  */
 
@@ -366,12 +366,12 @@ Posts
 }
 
 .post-footer .tags a {
-	color: #9EABB3;
+	color: #677984;
 	text-decoration: none;
 }
 
 .post-footer .tags a:hover {
-	color: #FC7E0F;
+	color: #a34d02;
 }
 
 .post-footer h4 {
@@ -486,7 +486,7 @@ Tags
 }
 
 .tag-description {
-	color: #9EABB3;
+	color: #677984;
 }
 
 /* ==========================================================================
@@ -498,12 +498,12 @@ Pagination
 	position: relative;
 	margin: 2rem auto;
 	font-size: .79rem;
-	color: #9EABB3;
+	color: #677984;
 	text-align: center;
 }
 
 .pagination a {
-	color: #9EABB3;
+	color: #677984;
 }
 
 /* Push the previous/next links out to the left/right */
@@ -530,7 +530,7 @@ Pagination
 
 .older-posts:hover,
 .newer-posts:hover {
-	color: #FC7E0F;
+	color: #a34d02;
 }
 
 .extra-pagination {
